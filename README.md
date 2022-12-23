@@ -43,6 +43,13 @@ Go to the following links for more info: <br>
 
 If you do not have ability to pay for images (and you have already used up your free credts or they are expired), I unfortunately can't help you since the Image model is on a pay per use basis.
 
+## Some Results
+![1](https://user-images.githubusercontent.com/31193823/209407145-b03e903b-5160-438f-b099-00edf693f770.png)
+![4](https://user-images.githubusercontent.com/31193823/209407165-7b1cd1c3-e219-4b78-b924-1b66c6299d18.png)
+![5](https://user-images.githubusercontent.com/31193823/209407205-580f63f4-5a23-46fa-8924-5ea2a7c639a1.png)
+
+
+
 ## References
 Learn more about models used here: https://beta.openai.com/docs/introduction
 
