@@ -46,7 +46,7 @@ Go to the following links for more info: <br>
 If you do not have ability to pay for images (and you have already used up your free credts or they are expired), I unfortunately can't help you since the Image model is on a pay per use basis.
 
 ## Some Results
-![1](https://user-images.githubusercontent.com/31193823/209407145-b03e903b-5160-438f-b099-00edf693f770.png) <br>Prompt: a high quality studio photo of a kitten drinking coffee - Not model generated prompt
+![1](https://user-images.githubusercontent.com/31193823/209407145-b03e903b-5160-438f-b099-00edf693f770.png) Prompt: a high quality studio photo of a kitten drinking coffee - Not model generated prompt<br>
 ![4](https://user-images.githubusercontent.com/31193823/209407165-7b1cd1c3-e219-4b78-b924-1b66c6299d18.png) <br>Prompt: of your great grandmother; or a photo of a grandparent (e.g - Model generated prompt (ada)
 ![5](https://user-images.githubusercontent.com/31193823/209407205-580f63f4-5a23-46fa-8924-5ea2a7c639a1.png) <br>Prompt: " of a gift basket, to describe the style that the painter would employ to convey" - Model generated prompt (ada)
 ![images2-7](https://user-images.githubusercontent.com/31193823/209417777-9e92a4b6-7127-425e-9653-a64f4d4270dc.png) <br>Prompt: ", or a stand-in for a painted masterpiece, without as much reason as" - Model generated prompt (ada)
