@@ -3,7 +3,7 @@ import openai
 from pprintpp import pprint as pp
 import pandas as pd
 
-openai.organization = "org-6f9VZtwKb6sSLrPyTgGlXFGW"
+# openai.organization = ""
 # openai.api_key = os.getenv("OPENAI_API_KEY")
 openai.api_key_path = ".api_key"
 # pp(openai.Model.list())

@@ -14,6 +14,7 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 - An [OPENAI](https://openai.com/api/) - You can sign up from this page
 - An Open AI Secret/API key [Generate Key from this page](https://beta.openai.com/account/api-keys). Make sure you store and copy the key somewhere safe.
+- It is not necessary to specify organization key but if you are a part of many organizations you should uncomment the line `openai.organization = ""` and specifiy the organization key. You can get org key from this page once logged in: https://beta.openai.com/account/org-settings
 
 ### Setup
 - Create a .api_key file and paste the api key generated above into file
