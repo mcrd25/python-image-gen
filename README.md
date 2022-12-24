@@ -3,8 +3,8 @@
 
 
 DALL-E based AI vs human images guessor (WIP). Currently, repo only contains a simple script that uses the openai ada Completion model (can easily interchange among curie, davinci, babbage) to generate prompt to generate the images which can then be used to experiment and have fun generating images . The current script can easily be used to create a continuous story with images with a few simple tweaks (which i may add to repo myself). However, the goal is to ultimately have a guessing game of whether an image is ai or human-based with two modes: 
-     -  1) implement simple image classification model and used the model to have mode where AI guesses (drag and drop/upload image) and then allow user to confirm whether or not they know if it is AI-generated or human-generated.  Will then use this data to improve the image classification model.
-     -  2)  allow humans to play a game and let them guess. This can give a neat statistic on quality of DALL-E images produced and how easy it is for humans to tell them apart. 
+-  1) implement simple image classification model and used the model to have mode where AI guesses (drag and drop/upload image) and then allow user to confirm whether or not they know if it is AI-generated or human-generated.  Will then use this data to improve the image classification model.
+-  2)  allow humans to play a game and let them guess. This can give a neat statistic on quality of DALL-E images produced and how easy it is for humans to tell them apart. 
 
 ## Built With
 - Python
