@@ -49,6 +49,9 @@ If you do not have ability to pay for images (and you have already used up your 
 ![1](https://user-images.githubusercontent.com/31193823/209407145-b03e903b-5160-438f-b099-00edf693f770.png)
 ![4](https://user-images.githubusercontent.com/31193823/209407165-7b1cd1c3-e219-4b78-b924-1b66c6299d18.png)
 ![5](https://user-images.githubusercontent.com/31193823/209407205-580f63f4-5a23-46fa-8924-5ea2a7c639a1.png)
+![images2-7](https://user-images.githubusercontent.com/31193823/209417777-9e92a4b6-7127-425e-9653-a64f4d4270dc.png)
+![images2-8](https://user-images.githubusercontent.com/31193823/209417795-40f09bfd-10fd-4f8c-8f35-97668d23af7e.png)
+![images2-9](https://user-images.githubusercontent.com/31193823/209417799-b1172879-ad0b-43cd-a90f-89aff4689622.png)
 
 
 
