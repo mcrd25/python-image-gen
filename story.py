@@ -1,15 +1,33 @@
-import os
+from secret_manager import SecretManager
 import openai
 from pprintpp import pprint as pp
-import pandas as pd
+secret_manager = SecretManager()
 
-# openai.organization = ""
-# openai.api_key = os.getenv("OPENAI_API_KEY")
-openai.api_key_path = ".api_key"
-TEXT_MODEL = "ada"
-INITIAL_PROMPT = "write a story about a cat"
+secrets = secret_manager.get_secrets("openai")
+assert "openai" in secret_manager.get_services()
+print(secrets)
 
-res = openai.Completion.create(
-        model=TEXT_MODEL,
-        prompt=INITIAL_PROMPT
-prompt = res["choices"][0]["text"]
+
+openai.api_key = secrets["api_key"]
+# openai.api_key_path = ".api_key"
+print(openai.api_key)
+
+# Set up the prompt
+story_prompt = "Complete the story: Once upon a time, there was a cat that loved coffee. His name was..."
+pp(story_prompt)
+# Set the model to use and the number of completions
+model_engine = "text-davinci-002"
+num_completions = 1
+
+# Generate completions
+completions = openai.Completion.create(
+    engine=model_engine,
+    prompt=story_prompt,
+    max_tokens=1024,
+    n=num_completions,
+    temperature=0.5,
+)
+pp(completions)
+# Print the completions
+for completion in completions.choices:
+    print(completion.text)
