@@ -1,4 +1,4 @@
-# IMAGE GENERATOR SCRIPT USING PYTHON AND DALL-E and GPT-3
+# IMAGE GENERATOR SCRIPT USING PYTHON AND DALL-E and GPT-3 / DALL-E Playground
 > This script uses the GPT-3 text completion models to generate a prompt that is then used to generate images. The results were interesting...
 
 
